@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TrackReader
+comment0.text=\r\n\ A\ helper\ class\ for\ our\ music\ application.\ This\ class\ can\ read\ files\ from\ the\ file\ system\r\n\ from\ a\ given\ folder\ with\ a\ specified\ suffix.\ It\ will\ interpret\ the\ file\ name\ as\ artist/\r\n\ track\ title\ information.\r\n\ \r\n\ It\ is\ expected\ that\ file\ names\ of\ music\ tracks\ follow\ a\ standard\ format\ of\ artist\ name\r\n\ and\ track\ name,\ separated\ by\ a\ dash.\ For\ example\:\ TheBeatles-HereComesTheSun.mp3\r\n\ \r\n\ @author\ David\ J.\ Barnes\ and\ Michael\ K\u00F6lling\r\n\ @version\ 2016.02.29\r\n
+comment1.params=
+comment1.target=TrackReader()
+comment1.text=\r\n\ Create\ the\ track\ reader,\ ready\ to\ read\ tracks\ from\ the\ music\ library\ folder.\r\n
+comment2.params=folder\ suffix
+comment2.target=java.util.ArrayList\ readTracks(java.lang.String,\ java.lang.String)
+comment2.text=\r\n\ Read\ music\ files\ from\ the\ given\ library\ folder\r\n\ with\ the\ given\ suffix.\r\n\ @param\ folder\ The\ folder\ to\ look\ for\ files.\r\n\ @param\ suffix\ The\ suffix\ of\ the\ audio\ type.\r\n
+comment3.params=file
+comment3.target=Track\ decodeDetails(java.io.File)
+comment3.text=\r\n\ Try\ to\ decode\ details\ of\ the\ artist\ and\ the\ title\r\n\ from\ the\ file\ name.\r\n\ It\ is\ assumed\ that\ the\ details\ are\ in\ the\ form\:\r\n\ \ \ \ \ artist-title.mp3\r\n\ @param\ file\ The\ track\ file.\r\n\ @return\ A\ Track\ containing\ the\ details.\r\n
+numComments=4
