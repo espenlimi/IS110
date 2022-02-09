@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Card\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=value\ symbol
+comment1.target=Card(int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ print()
+comment3.params=value\ symbol
+comment3.target=void\ setCardValues(int,\ java.lang.String)
+numComments=4
