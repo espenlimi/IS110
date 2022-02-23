@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Car\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=id
+comment1.target=Car(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getId()
+comment3.params=hasPaid
+comment3.target=void\ setHasPaid(boolean)
+comment4.params=
+comment4.target=boolean\ getHasPaid()
+numComments=5

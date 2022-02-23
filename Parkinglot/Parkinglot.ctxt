@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Parkinglot
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Parkinglot\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=capacity
+comment1.target=Parkinglot(int)
+comment2.params=car
+comment2.target=boolean\ parkCar(Car)
+comment3.params=car\ index
+comment3.target=boolean\ parkCar(Car,\ int)
+comment4.params=carId
+comment4.target=boolean\ leaveSlot(java.lang.String)
+comment5.params=
+comment5.target=int\ getFirstAvailableSlot()
+comment6.params=carId
+comment6.target=boolean\ pay(java.lang.String)
+numComments=7
