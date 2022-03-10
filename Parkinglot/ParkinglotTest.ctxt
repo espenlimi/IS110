@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=ParkinglotTest
+comment0.text=\r\n\ The\ test\ class\ ParkinglotTest.\r\n\r\n\ @author\ \ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=ParkinglotTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ ParkinglotTest\r\n
+comment2.params=
+comment2.target=void\ parkCarReturnsTrueWhenParkingInEmptyLot()
+comment3.params=
+comment3.target=void\ parkingLotThrowsExceptionWhenInitializedWithNegativeCapacity()
+comment4.params=
+comment4.target=void\ setUp()
+comment5.params=
+comment5.target=void\ tearDown()
+numComments=6

@@ -9,9 +9,16 @@ public class Car
 {
     private String id;
     private boolean hasPaid;
+    private EngineType engineType;
     
     public Car(String id){
         this.id = id;
+        engineType = EngineType.Petrol;
+    }
+    
+      public Car(String id, EngineType engineType){
+        this.id = id;
+        this.engineType = engineType;
     }
     
     public String getId()
