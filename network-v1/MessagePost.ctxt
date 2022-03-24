@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MessagePost
+comment0.text=\r\n\ This\ class\ stores\ information\ about\ a\ post\ in\ a\ social\ network.\ \r\n\ The\ main\ part\ of\ the\ post\ consists\ of\ a\ (possibly\ multi-line)\r\n\ text\ message.\ Other\ data,\ such\ as\ author\ and\ time,\ are\ also\ stored.\r\n\ \r\n\ @author\ Michael\ K\u00F6lling\ and\ David\ J.\ Barnes\r\n\ @version\ 0.1\r\n
+comment1.params=author\ text
+comment1.target=MessagePost(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MessagePost.\r\n\ \r\n\ @param\ author\ \ \ \ The\ username\ of\ the\ author\ of\ this\ post.\r\n\ @param\ text\ \ \ \ \ \ The\ text\ of\ this\ post.\r\n
+comment2.params=
+comment2.target=void\ displayDetails()
+comment3.params=
+comment3.target=java.lang.String\ getText()
+comment3.text=\r\n\ Return\ the\ text\ of\ this\ post.\r\n\ \r\n\ @return\ The\ post's\ text.\r\n
+numComments=4
