@@ -6,7 +6,8 @@ public class Main {
 
     public static void main(String[] args) {
 
-        //Lister, løkker (inkl iterator), bluej i intellij, polymorfe metoder, abstrakte klasser,  osv..
+        //Testing, kalle metoder i andre klasser
+        //Neste gang: Design patterns (kanskje)
 
         Zoo zoo = new Zoo();
         zoo.addAnimal(new Mammal("Mikke","Mus"));

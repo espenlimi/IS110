@@ -14,6 +14,22 @@ public class Zoo {
         animals.add(animal);
     }
 
+    public void sendAnimalToTheWashingMachine(Animal animal)
+    {
+        if(!animal.getSpecies().equals("Fish")){
+            sendToWash(animal);
+        }
+    }
+    protected void sendToWash(Animal animal)
+    {
+        new WashingMachine().washAnimal(animal);
+    }
+
+    public int getNumberOfAnimals()
+    {
+        return animals.size();
+    }
+
     public void printsAnimalsOfSpecies(String species){
         for(Animal animal:animals){
             if(animal.getSpecies().equalsIgnoreCase(species)){
