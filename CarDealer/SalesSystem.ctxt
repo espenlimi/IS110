@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=SalesSystem
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SalesSystem\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=SalesSystem()
+comment2.params=vehicle
+comment2.target=void\ sellVehicle(Vehicle)
+comment3.params=
+comment3.target=void\ printVehicles()
+comment4.params=index
+comment4.target=void\ printVehicleDetails(int)
+comment5.params=vehicle
+comment5.target=void\ registerVehicle(Vehicle)
+numComments=6

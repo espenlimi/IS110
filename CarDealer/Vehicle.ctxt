@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Car\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=price\ brand\ color\ licencePlate
+comment1.target=Vehicle(int,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=price
+comment2.target=void\ setPrice(int)
+comment3.params=
+comment3.target=int\ getPrice()
+comment4.params=
+comment4.target=java.lang.String\ getBrand()
+comment5.params=
+comment5.target=java.lang.String\ getColor()
+comment6.params=
+comment6.target=java.lang.String\ getLicencePlate()
+numComments=7
