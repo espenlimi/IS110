@@ -19,6 +19,36 @@ public class CarTest
     }
 
     @Test
+    public void equalsReturnsFalseWhenEqualsNull(){
+        Car car1 = new Car(1337,"Volvo","Beige","asd",5);
+        Car car2 = null;
+       boolean result = car1.equals(car2);
+        
+       assertEquals(false,result);
+    }
+    
+     @Test
+    public void equalsReturnsFalseWhenEqualsOfDifferentType() throws Exception{
+        Car car1 = new Car(1337,"Volvo","Beige","asd",5);
+        String s = "JEG ER INGEN BIL!";
+
+       car1.setNumberOfDoors(0);
+       boolean result = car1.equals(s);
+        
+       assertEquals(false,result);
+    }
+    @Test
+    public void equalsReturnsFalseWhenBrandIsDifferent()
+    {
+
+       Car car1 = new Car(1337,"Volvo","Beige","asd",5);
+       Car car2 = new Car(1337,"Folkevogn","Beige","asd",5);
+       boolean result = car1.equals(car2);
+        
+       assertEquals(false,result);
+    }
+    
+    @Test
     public void equalsReturnsTrueForTwoObjectsWithSameValues()
     {
 

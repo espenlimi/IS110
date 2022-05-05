@@ -5,7 +5,7 @@
  * @author (your name)
  * @version (a version number or a date)
  */
-public class Car extends Vehicle
+public class Car extends Vehicle 
 {
     private int numberOfDoors;
     
@@ -13,6 +13,13 @@ public class Car extends Vehicle
     {
         super(price, brand, color, licencePlate);
         this.numberOfDoors = numberOfDoors;
+    }
+    
+    public void setNumberOfDoors(int numberOfDoors) throws IllegalArgumentException
+    {
+        if(numberOfDoors<1){
+            throw new IllegalArgumentException("I NEED DOORS!!");
+        }
     }
     
     public int getNumberOfDoors(){
