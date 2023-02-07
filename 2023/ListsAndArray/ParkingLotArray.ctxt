@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ParkingLotArray
+comment1.params=capacity
+comment1.target=ParkingLotArray(int)
+comment2.params=licencePlate
+comment2.target=java.lang.Boolean\ addCar(java.lang.String)
+comment3.params=place
+comment3.target=java.lang.String\ getCarAtPlace(int)
+comment4.params=licencePlate
+comment4.target=int\ getPlaceForCar(java.lang.String)
+comment5.params=licencePlate
+comment5.target=void\ removeCar(java.lang.String)
+numComments=6
