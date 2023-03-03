@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MusicOrganizer
+comment0.text=\r\n\ A\ class\ to\ hold\ details\ of\ audio\ files.\r\n\ \r\n\ @author\ Esp1\r\n\ @version\ 2023.02.28\r\n
+comment1.params=
+comment1.target=MusicOrganizer()
+comment1.text=\r\n\ Create\ a\ MusicOrganizer\r\n
+comment2.params=filename
+comment2.target=MusicFile\ addFile(java.lang.String)
+comment2.text=\r\n\ Add\ a\ file\ to\ the\ collection.\r\n\ @param\ filename\ The\ file\ to\ be\ added.\r\n
+comment3.params=filename\ fileType
+comment3.target=MusicFile\ addFile(java.lang.String,\ FileType)
+comment4.params=filename
+comment4.target=MusicFile\ getFile(java.lang.String)
+comment5.params=
+comment5.target=java.util.ArrayList\ getFiles()
+comment6.params=
+comment6.target=int\ getNumberOfFiles()
+comment6.text=\r\n\ Return\ the\ number\ of\ files\ in\ the\ collection.\r\n\ @return\ The\ number\ of\ files\ in\ the\ collection.\r\n
+numComments=7

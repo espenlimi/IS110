@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=MusicOrganizerTest
+comment0.text=\r\n\ The\ test\ class\ MusicOrganizerTest.\r\n\r\n\ @author\ \ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=MusicOrganizerTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ MusicOrganizerTest\r\n
+comment2.params=
+comment2.target=void\ addFileReturnsCorrectFiletypeWhenFileIsAddedWithoutSpecifyingFileType()
+comment3.params=
+comment3.target=void\ addFileReturnsCorrectNameWhenFileIsAddedWithoutSpecifyingFileType()
+comment4.params=
+comment4.target=void\ addFileReturnsNullWhenFilenameExists()
+comment5.params=
+comment5.target=void\ addFileIsNotAddedToOrganizerWhenExists()
+comment6.params=
+comment6.target=void\ addFileReturnsCorrectFileTypeWhenFileTypeIsSpecified()
+comment7.params=
+comment7.target=void\ setUp()
+comment7.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment8.params=
+comment8.target=void\ tearDown()
+comment8.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+numComments=9

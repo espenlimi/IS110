@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MusicFile
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MusicFile\ here.\r\n\r\n\ @author\ Esp1\r\n\ @version\ 1337\r\n
+comment1.params=name\ fileType
+comment1.target=MusicFile(java.lang.String,\ FileType)
+comment1.text=\r\n\ Constructor\ for\ musicfile\r\n\ @param\ name\ The\ file\ name\r\n\ @param\ fileType\ type\ of\ file\r\n
+comment2.params=
+comment2.target=java.lang.String\ getFileName()
+comment2.text=\r\n\ Returns\ the\ name\ of\ the\ file\ in\ all\ its\ glory\!\!\ \r\n
+comment3.params=
+comment3.target=FileType\ getFileType()
+numComments=4
