@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=NewsFeed
+comment0.text=\r\n\ The\ NewsFeed\ class\ stores\ news\ posts\ for\ the\ news\ feed\ in\ a\ social\ network\ \r\n\ application.\r\n\ \r\n\ Display\ of\ the\ posts\ is\ currently\ simulated\ by\ printing\ the\ details\ to\ the\r\n\ terminal.\ (Later,\ this\ should\ display\ in\ a\ browser.)\r\n\ \r\n\ This\ version\ does\ not\ save\ the\ data\ to\ disk,\ and\ it\ does\ not\ provide\ any\r\n\ search\ or\ ordering\ functions.\r\n\ \r\n\ @author\ Michael\ K\u00F6lling\ and\ David\ J.\ Barnes\r\n\ @version\ 0.1\r\n
+comment1.params=
+comment1.target=NewsFeed()
+comment1.text=\r\n\ Construct\ an\ empty\ news\ feed.\r\n
+comment2.params=post
+comment2.target=void\ addPost(Post)
+comment2.text=\r\n\ Add\ a\ text\ post\ to\ the\ news\ feed.\r\n\ \r\n\ @param\ text\ \ The\ text\ post\ to\ be\ added.\r\n
+comment3.params=
+comment3.target=void\ show()
+comment3.text=\r\n\ Show\ the\ news\ feed.\ Currently\:\ print\ the\ news\ feed\ details\ to\ the\r\n\ terminal.\ (To\ do\:\ replace\ this\ later\ with\ display\ in\ web\ browser.)\r\n
+numComments=4

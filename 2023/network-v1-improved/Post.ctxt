@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Post
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Post\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=username
+comment1.target=Post(java.lang.String)
+comment2.params=
+comment2.target=void\ like()
+comment2.text=\r\n\ Record\ one\ more\ 'Like'\ indication\ from\ a\ user.\r\n
+comment3.params=
+comment3.target=void\ unlike()
+comment3.text=\r\n\ Record\ that\ a\ user\ has\ withdrawn\ his/her\ 'Like'\ vote.\r\n
+comment4.params=text
+comment4.target=void\ addComment(java.lang.String)
+comment4.text=\r\n\ Add\ a\ comment\ to\ this\ post.\r\n\ \r\n\ @param\ text\ \ The\ new\ comment\ to\ add.\r\n
+comment5.params=
+comment5.target=long\ getTimeStamp()
+comment5.text=\r\n\ Return\ the\ time\ of\ creation\ of\ this\ post.\r\n\ \r\n\ @return\ The\ post's\ creation\ time,\ as\ a\ system\ time\ value.\r\n
+comment6.params=
+comment6.target=void\ displayPost()
+comment7.params=
+comment7.target=void\ display()
+comment8.params=time
+comment8.target=java.lang.String\ timeString(long)
+comment8.text=\r\n\ Create\ a\ string\ describing\ a\ time\ point\ in\ the\ past\ in\ terms\ \r\n\ relative\ to\ current\ time,\ such\ as\ "30\ seconds\ ago"\ or\ "7\ minutes\ ago".\r\n\ Currently,\ only\ seconds\ and\ minutes\ are\ used\ for\ the\ string.\r\n\ \r\n\ @param\ time\ \ The\ time\ value\ to\ convert\ (in\ system\ milliseconds)\r\n\ @return\ \ \ \ \ \ A\ relative\ time\ string\ for\ the\ given\ time\r\n
+numComments=9
