@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Petshop
+comment1.params=
+comment1.target=Petshop()
+comment2.params=animal
+comment2.target=void\ addAnimal(Animal)
+comment3.params=animal
+comment3.target=boolean\ animalExists(Animal)
+comment4.params=
+comment4.target=java.util.ArrayList\ getMammals()
+numComments=5

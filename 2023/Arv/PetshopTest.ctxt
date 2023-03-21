@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=PetshopTest
+comment0.text=\r\n\ The\ test\ class\ PetshopTest.\r\n\r\n\ @author\ \ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=PetshopTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ PetshopTest\r\n
+comment2.params=
+comment2.target=void\ addAnimalAddsAnimal()
+comment3.params=
+comment3.target=void\ animalExistsReturnsFalseOnEqual()
+comment4.params=
+comment4.target=void\ getMammalsOnlyReturnsMammals()
+comment5.params=
+comment5.target=void\ getMammalsOnlyReturnsCorrectNumberOfElements()
+comment6.params=
+comment6.target=Petshop\ getUnitUnderTestForMammalsTests()
+numComments=7

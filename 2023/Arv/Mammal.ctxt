@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Mammal
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Mammal\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=species\ numberOfLegs\ sound
+comment1.target=Mammal(java.lang.String,\ int,\ java.lang.String)
+numComments=2

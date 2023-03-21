@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Animal
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Animal\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=species\ numberOfLegs\ sound
+comment1.target=Animal(java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getSpecies()
+comment3.params=
+comment3.target=int\ getNumberOfLegs()
+comment4.params=
+comment4.target=java.lang.String\ getSound()
+comment5.params=
+comment5.target=int\ getPrice()
+numComments=6
