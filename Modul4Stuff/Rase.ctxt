@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Rase
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Rase\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=size\ name\ lifespan
+comment1.target=Rase(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+numComments=3

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=NorskKennelKlubb
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ NorskKennelKlubb\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=NorskKennelKlubb()
+comment2.params=
+comment2.target=void\ printAllBreeds()
+comment3.params=
+comment3.target=void\ printAllBreedsWithWhile()
+comment4.params=
+comment4.target=void\ insertBreedAfterDachs()
+comment5.params=name
+comment5.target=void\ removeBreed(java.lang.String)
+numComments=6
